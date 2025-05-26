@@ -21,16 +21,15 @@
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Python 3.8+
+- node.js
 - Discord Bot Token
-- discord.py library
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/heranos-temporary-voice.git
+git clone https://github.com/amirebog/heranos-temporary-voice.git
 
 # Install dependencies
-pip install -r requirements.txt
+npm install
 
-# Configure the bot
-cp config.example.json config.json
+# run bot
+node . / node bot.js
