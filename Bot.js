@@ -12,7 +12,7 @@ const chalk = require('chalk')
 const Express = require('express')
 const App = Express()
 App.listen(8000, async() => console.log(chalk.green('The Express Server has been Started')))
-App.get('/', async(Req, Res) => Res.send(''))
+App.get('/', async(Req, Res) => Res.send('heranos.ir'))
 const db = require('pro.db')
 const BotConfig = require('./Bot.json')
 
