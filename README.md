@@ -5,7 +5,8 @@
   
   [![Discord](https://img.shields.io/discord/your-server-id?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/heranos)
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-  [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+  [![Node.js](https://img.shields.io/badge/Node.js-16+-brightgreen.svg)](https://nodejs.org)
+  [![Discord.js](https://img.shields.io/badge/discord.js-14+-blue.svg)](https://discord.js.org)
 </div>
 
 ## 🌟 Features
